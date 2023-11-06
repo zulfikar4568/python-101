@@ -1,0 +1,1 @@
+data = ['bandung', 'jakarta', 'surabaya']

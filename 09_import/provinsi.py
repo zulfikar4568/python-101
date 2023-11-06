@@ -1,0 +1,1 @@
+data = ['Jawa Barat', 'Jawa Tengah', 'Jawa Timur']
