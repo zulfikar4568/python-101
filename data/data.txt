@@ -1,0 +1,3 @@
+Hi ini adalah data string
+Dan saya sedang belajar python
+Begitu pula teman saya
