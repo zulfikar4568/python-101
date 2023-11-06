@@ -1,0 +1,1 @@
+print(f'Ini adalah init pada package')
